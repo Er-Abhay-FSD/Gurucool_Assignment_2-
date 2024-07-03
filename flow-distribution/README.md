@@ -65,17 +65,16 @@ distributeUsers(2); // Example with topPriorityFactor = 2
 Run tests using:
 ```bash
 npm test
-
+```
 ### Dependencies
+
 Express: Web framework for Node.js.
 Mocha & Chai: Testing frameworks.
 Contributing
 Contributions are welcome! Please fork the repository and submit pull requests.
 
-License
+### License
 This project is licensed under the ISC License.
-
-css
 ``bash
 
-This README.md file provides comprehensive information about your Flow Distribution API project, covering installation, usage, example code, testing, dependencies, contributing guidelines, and licensing details. Adjust any specific details or sections as per your project's requirements.
+This README.md file provides comprehensive information about your Flow Distribution API project, covering installation, usage, example code, testing, dependencies, contributing guidelines, and licensing details. Adjust any specific details or sections as per your project's requirements.```
